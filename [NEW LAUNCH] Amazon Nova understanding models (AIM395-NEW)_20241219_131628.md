@@ -1,4 +1,4 @@
-# Summary of AWS re_Invent 2024 - [NEW LAUNCH] Amazon Nova understanding models (AIM395-NEW).txt
+# Summary of AWS re_Invent 2024 - [NEW LAUNCH] Amazon Nova understanding models ([AIM395-NEW](https://www.youtube.com/watch?v=KEzL6VywPBQ)).txt
 
 # Summary
 
